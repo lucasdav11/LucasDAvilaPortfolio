@@ -1,0 +1,5 @@
+n w n s n
+n w n n c
+f o w w n
+o n w n n
+w c n n o
