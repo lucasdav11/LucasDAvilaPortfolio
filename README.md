@@ -1,6 +1,6 @@
-# Project Title
+# Lucas D'Avila Portfolio
 
-One Paragraph of project description goes here
+This repository was created to showcase all my work that I'm most proud of up to this point in my career as a computer scientist.  It includes a variety of different projects.  To name a few, I'm presenting a Pokemon game that utilizes the command line, a game that demonstrates the use of GUI's called Ball Breaker, and a fully functioning SQL Database for an automotive repair shop.  All these projects are intended to demonstrate my skills as a programmer and my understanding of the fundamentals of computer science.  These skills include coding in Java, C/C++, Python, and MySQL.  Knowing the fundamentals of OOP, Structered Programming, AI, and in general Software Development, including its process starting from inception to deployment.
 
 ## Getting Started
 
