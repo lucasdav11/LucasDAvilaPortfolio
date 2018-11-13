@@ -1,87 +1,23 @@
 # Lucas D'Avila Portfolio
 
-This repository was created to showcase all my work that I'm most proud of up to this point in my career as a computer scientist.  It includes a variety of different projects.  To name a few, I'm presenting a Pokemon game that utilizes the command line, a game that demonstrates the use of GUI's called Ball Breaker, and a fully functioning SQL Database for an automotive repair shop.  All these projects are intended to demonstrate my skills as a programmer and my understanding of the fundamentals of computer science.  These skills include coding in Java, C/C++, Python, and MySQL.  Knowing the fundamentals of OOP, Structered Programming, AI, and in general Software Development, including its process starting from inception to deployment.
+This repository was created to showcase my best work as a computer scientist up to this point in my career.  All these projects are intended to demonstrate my skills as a programmer (coding in Java, C/C++, Python, and MySQL) and my understanding of the fundamentals of computer science.  This portfolio includes a variety of different projects that demonstrate my knowledge of the fundamentals of OOP, Structured Programming, AI, Backend Engineering, and Software Development, including its process starting from inception to deployment.  To name a few, this portfolio a Pokemon game that utilizes the command line, a game that demonstrates the use of GUI's called Ball Breaker, and a fully functioning SQL Database for an automotive repair shop.  
+
+University:                   California State University, Long Beach
+Degree:                       BS Computer Science
+Expected Graduation Date:     May 2019
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Each folder in my repository contains all the files necessary to run each project along with a README.md explaining said project in detail.
 
-### Prerequisites
-
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
+I hope you enjoy them as much as I did writing them!
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+* [Elipse](https://www.eclipse.org)
+* [VSCode](https://code.visualstudio.com)
+* [Spyder](https://www.spyder-ide.org)
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* **Lucas D'Avila** [LinkedIn](https://www.linkedin.com/in/lucas-d-avila-099590136/)
