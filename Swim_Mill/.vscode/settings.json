@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "ipc.h": "c",
+        "signal.h": "c",
+        "errno.h": "c"
+    }
+}
